@@ -26,10 +26,12 @@ SECRET_KEY = 'htalc+g(5%h2zo9y#@5#lixtb$q8b4r5cn2v5=d5l)4g3(*&^)'
 DEBUG = True
 
 ALLOWED_HOSTS = ALLOWED_HOSTS = [
-  'localhost',
-  '0.0.0.0',
-  '127.0.0.1',
-  '147.182.190.239'
+    'localhost',
+    '0.0.0.0',
+    '127.0.0.1',
+    '147.182.190.239',
+    'appsemm.xyz',
+    'www.appsemm.xyz'
 ]
 
 
